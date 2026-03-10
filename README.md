@@ -8,7 +8,7 @@ Frontend developer focused on building real-world web applications and continuou
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [runerdycastillo@gmail.com](mailto:runerdycastillo@gmail.com)
-* 🚀  I'm currently working on [Instalyzer - Instagram export analzer.](http://ﬁgithub.com/runerdycastillo/Instalyzer)
+* 🚀  I'm currently working on [Instalyzer - Instagram export analzer](http://github.com/runerdycastillo/Instalyzer)
 * 🧠  I'm currently learning TypeScript and Next.js
 * 👥  I'm looking to collaborate on Open-source and frontend applications.
 * 💬  Ask me about ⚡ Leveraging AI tools to accelerate development and build real-world projects.
@@ -19,4 +19,13 @@ Frontend developer focused on building real-world web applications and continuou
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/runerdycastillo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/runerdycastillo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### Socials
+
+<p align="left">
+  <a href="https://github.com/runerdycastillo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/runerdycastillo" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
+  </a>
+</p>
