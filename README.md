@@ -21,9 +21,11 @@ Frontend developer focused on building real-world web applications and continuou
 
 ### Socials
 
+### Socials
+
 <p align="left">
   <a href="https://github.com/runerdycastillo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="32" height="32" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/runerdycastillo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="LinkedIn"/>
